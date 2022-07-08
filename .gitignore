@@ -27,3 +27,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+Thumbs.db
+*_old
+tmp/
+*_backup
+.idea/
